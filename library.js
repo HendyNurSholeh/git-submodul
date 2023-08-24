@@ -5,3 +5,7 @@ function getMyName() {
 function getJurus() {
   return "Gear 5";
 }
+
+function getKawanKawan() {
+  return "usopp";
+}
